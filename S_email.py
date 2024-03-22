@@ -17,5 +17,5 @@ receivers_mail = "sample@gmail.com"
 subject = "Put your subject"
 command = "message"
 
-send_email(email, password, receivers_mail, subject, message)
+send_email(email, password, receivers_mail, subject, command)
 
