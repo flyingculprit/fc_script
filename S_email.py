@@ -11,11 +11,11 @@ def send_email(sender_email, sender_password, receiver_email, subject, message):
     #print("Email sent to " + receiver_email)
 
 # Example usage
-email = "laverna1914@gmail.com"
-password = "xjqhdjkkxnemrhcv"
-receivers_mail = "laverna1914@gmail.com"
-subject = "Hack"
-message = "Its working"
+email = "example@gmail.com"
+password = "EMAIL_PASS"
+receivers_mail = "sample@gmail.com"
+subject = "Put your subject"
+command = "message"
 
 send_email(email, password, receivers_mail, subject, message)
 
