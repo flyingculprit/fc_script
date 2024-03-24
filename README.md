@@ -30,7 +30,8 @@ Install this on your linux
   $ git clone https://github.com/flyingculprit/fc_phishing.git
 ```
 ```bash
-  $ cd fc_phishing
+  $ cd fc_script
+  $ python fc_script.py
 ```
 Install this on your windows
 
