@@ -29,10 +29,7 @@ Install this on your linux
   $ sudo apt-get install git
   $ git clone https://github.com/flyingculprit/fc_phishing.git
 ```
-```bash
-  $ cd fc_script
-  $ python fc_script.py
-```
+
 Install this on your windows
 
 ```bash
@@ -52,7 +49,13 @@ Install this on your windows
 
 ## Deployment
 
-To deploy this project run
+To deploy this in linux
+
+```bash
+  $ cd fc_script
+  $ python fc_script.py
+```
+To deploy this on windows
 
 ```bash
   Run the file "pass_steal.py"
