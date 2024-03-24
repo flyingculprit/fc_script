@@ -33,7 +33,7 @@ Install this on your linux
 Install this on your windows
 
 ```bash
-  Go tp vs code or python IDLE or pycharm
+  Go to vs code or python IDLE or pycharm
 ```
 ```bash
   git clone https://github.com/flyingculprit/fc_script.git
